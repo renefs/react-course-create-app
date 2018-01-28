@@ -1,6 +1,4 @@
 import axios from "axios";
-import {Component} from "react";
-
 var id = require('./secret').id;
 var sec = require('./secret').sec;
 
